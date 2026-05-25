@@ -1,0 +1,6 @@
+{
+  "name": "Kikheto Chishi Portfolio",
+  "description": "A premium modern personal portfolio website for Kikheto Chishi, showcasing his leadership, journey, values, work, achievements, and impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
